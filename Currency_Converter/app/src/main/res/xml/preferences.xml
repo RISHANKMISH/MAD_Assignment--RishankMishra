@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        android:title="@string/settings_appearance"
+        app:iconSpaceReserved="false">
+
+        <SwitchPreferenceCompat
+            android:key="dark_mode"
+            android:title="@string/settings_dark_mode"
+            android:summary="@string/settings_dark_mode_summary"
+            android:defaultValue="false"
+            app:iconSpaceReserved="false"
+            app:widgetLayout="@layout/preference_widget_switch" /> />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

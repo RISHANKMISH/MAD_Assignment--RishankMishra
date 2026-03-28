@@ -1,0 +1,49 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Currency Converter</string>
+
+    <!-- Currency Names -->
+    <string name="currency_inr">Indian Rupee (INR)</string>
+    <string name="currency_usd">US Dollar (USD)</string>
+    <string name="currency_jpy">Japanese Yen (JPY)</string>
+    <string name="currency_eur">Euro (EUR)</string>
+
+    <!-- Currency Codes -->
+    <string name="code_inr">INR</string>
+    <string name="code_usd">USD</string>
+    <string name="code_jpy">JPY</string>
+    <string name="code_eur">EUR</string>
+
+    <!-- Currency Symbols -->
+    <string name="symbol_inr">₹</string>
+    <string name="symbol_usd">$</string>
+    <string name="symbol_jpy">¥</string>
+    <string name="symbol_eur">€</string>
+
+    <!-- UI Labels -->
+    <string name="label_from">From</string>
+    <string name="label_to">To</string>
+    <string name="label_amount">Amount</string>
+    <string name="label_result">Result</string>
+    <string name="label_swap">Swap Currencies</string>
+    <string name="button_convert">Convert</string>
+    <string name="button_settings">Settings</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_appearance">Appearance</string>
+    <string name="settings_dark_mode">Dark Mode</string>
+    <string name="settings_dark_mode_summary">Enable dark theme for the app</string>
+
+    <!-- Hints -->
+    <string name="hint_enter_amount">Enter amount</string>
+    <string name="hint_select_currency">Select currency</string>
+
+    <!-- Content Descriptions -->
+    <string name="desc_swap">Swap from and to currencies</string>
+    <string name="desc_settings">Open settings</string>
+
+    <!-- Errors -->
+    <string name="error_invalid_amount">Please enter a valid amount</string>
+    <string name="error_same_currency">Please select different currencies</string>
+</resources>
