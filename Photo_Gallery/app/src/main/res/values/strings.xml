@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Photo Gallery</string>
+    <string name="select_folder">Select Folder</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="view_gallery">View Gallery</string>
+    <string name="current_folder">Current Folder</string>
+    <string name="no_folder_selected">No folder selected</string>
+    <string name="images_count">%1$d images</string>
+    <string name="no_images">No images in this folder</string>
+    <string name="image_details">Image Details</string>
+    <string name="image_name">Name</string>
+    <string name="image_path">Path</string>
+    <string name="image_size">Size</string>
+    <string name="image_date">Date Taken</string>
+    <string name="delete_image">Delete Image</string>
+    <string name="delete_confirmation">Are you sure you want to delete this image?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="camera_permission_message">Camera permission is required to take photos</string>
+    <string name="storage_permission_message">Storage permission is required to access photos</string>
+    <string name="ok">OK</string>
+    <string name="image_deleted">Image deleted successfully</string>
+    <string name="delete_failed">Failed to delete image</string>
+    <string name="photo_saved">Photo saved successfully</string>
+    <string name="photo_save_failed">Failed to save photo</string>
+    <string name="choose_folder">Choose Folder</string>
+    <string name="back">Back</string>
+</resources>
